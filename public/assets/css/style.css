@@ -9067,6 +9067,7 @@ select:visited {
 }
 .ft-footer-widget .menu-widget li a:hover {
   padding-left: 12px;
+  font-style: italic;
 }
 .ft-footer-widget .menu-widget li a:hover:before {
   width: 8px;
